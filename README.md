@@ -1,3 +1,5 @@
+
+
 # Smart Resume Screening & Ranking System
 
 
@@ -10,8 +12,7 @@ A modular recruitment system designed to automate resume screening and candidate
 
 
 
-[▶️ Watch the Project Demo](
-)
+[▶️ Watch the Project Demo](https://github.com/user-attachments/assets/9c7e8b16-5070-40c5-a2d3-9e2524eae2bc)
 
 ## 🏗️ Architecture 
 
